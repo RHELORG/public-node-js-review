@@ -1,5 +1,5 @@
-os: RHEL
-dist: rhel8
+os: linux
+dist: rhel
 language: node_js
 arch: amd64
 script:
